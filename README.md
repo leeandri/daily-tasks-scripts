@@ -6,4 +6,4 @@ Script to perform daily Linux System Administration tasks.
 ## Index
 
 - Bash script examples: [class](https://github.com/leeandri/daily-tasks-scripts/tree/main/class)
-- Git repo example: [class](https://github.com/leeandri/daily-tasks-scripts/tree/main/git-basics)
+- Git repo example: [git-basics](https://github.com/leeandri/daily-tasks-scripts/tree/main/git-basics)
